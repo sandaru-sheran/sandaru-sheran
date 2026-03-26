@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1a2e,16213e,0f3460&height=180&section=header&text=Mohomed%20Inshaf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Wave" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1a1a2e,16213e,0f3460&height=180&section=header&text=Sandaru%20Sheran&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Wave" />
   
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4CC9FE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;Spring+Boot+%2B+Angular+Specialist+%E2%9A%A1;Building+Enterprise+Solutions+%F0%9F%92%BB;Coding+with+Coffee+%E2%98%95" alt="Typing Animation" />
