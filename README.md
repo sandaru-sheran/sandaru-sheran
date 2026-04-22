@@ -42,7 +42,7 @@ I'm **Sandaru Sheran**, a Software Engineering Student from Sri Lanka. I focus o
 #### 🔧 Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,maven&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea&perline=8" />
   </a>
 </p>
 
