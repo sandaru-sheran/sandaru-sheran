@@ -28,21 +28,21 @@ I'm **Sandaru Sheran**, a Software Engineering Student from Sri Lanka. I focus o
 #### 🌐 Frontend & Design
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,react,html,css,tailwind,bootstrap,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,html,css,tailwind,bootstrap,figma&perline=8" />
   </a>
 </p>
 
 #### ⚙️ Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb,redis&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql&perline=8" />
   </a>
 </p>
 
 #### 🔧 Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,idea,maven&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,maven&perline=8" />
   </a>
 </p>
 
