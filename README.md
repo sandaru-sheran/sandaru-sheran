@@ -50,8 +50,8 @@ I'm **Sandaru Sheran**, a Software Engineering Student from Sri Lanka. I focus o
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandaruSheran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruSheran&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandaru-sheran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaru-sheran&layout=compact&theme=tokyonight&border_radius=10" />
 </div>
 
 <br/>
